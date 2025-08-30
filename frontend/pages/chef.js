@@ -68,10 +68,10 @@ export default function ChefDashboard() {
       headers,
       body: JSON.stringify({ status: 'ready' }),
     });
-    // Обновим список
-    const token = localStorage.getItem('access_token');
-    const headers = { 'Authorization': `Bearer ${token}` };
-    const res = await fetch('/api/orders/', { headers });
+    // После изменения — обновим список
+    const res = await fetch('/api/orders/', {
+      headers: { 'Authorization': `Bearer ${token}` },
+    });
     const data = await res.json();
     const activeOrders = data.filter(o => ['new', 'preparing'].includes(o.status));
     setOrders(activeOrders);
