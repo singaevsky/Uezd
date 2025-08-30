@@ -1,0 +1,12 @@
+# backend/requirements.txt
+Django>=4.2
+djangorestframework>=3.14
+django-cors-headers>=4.3
+psycopg2-binary>=2.9
+gunicorn>=21.2
+channels>=4.0
+channels-redis>=4.0
+djangorestframework-simplejwt>=5.3
+pyTelegramBotAPI>=4.0
+redis>=4.5
+python-dotenv>=1.0

@@ -1,0 +1,289 @@
+[
+  {
+    "model": "products.filling",
+    "fields": {
+      "name": "Молочная девочка",
+      "description": "Малина/вишня/клубника на выбор. Классический, шоколадный или карамельный бисквит"
+    }
+  },
+  {
+    "model": "products.filling",
+    "fields": {
+      "name": "Клубничные облака"
+    }
+  },
+  {
+    "model": "products.filling",
+    "fields": {
+      "name": "Малиновый рай"
+    }
+  },
+  {
+    "model": "products.filling",
+    "fields": {
+      "name": "Шоколадный бум"
+    }
+  },
+  {
+    "model": "products.filling",
+    "fields": {
+      "name": "Лимонный пирог"
+    }
+  },
+  {
+    "model": "products.filling",
+    "fields": {
+      "name": "Чёрный лес (вишня)"
+    }
+  },
+  {
+    "model": "products.filling",
+    "fields": {
+      "name": "Карамельные бананы / шоколад"
+    }
+  },
+  {
+    "model": "products.filling",
+    "fields": {
+      "name": "Ванильный пудинг"
+    }
+  },
+  {
+    "model": "products.filling",
+    "fields": {
+      "name": "Персик / манго / маракуйя",
+      "description": "На выбор. Молочный бисквит"
+    }
+  },
+  {
+    "model": "products.filling",
+    "fields": {
+      "name": "Клубника / банан",
+      "description": "Шоколадный бисквит"
+    }
+  },
+  {
+    "model": "products.filling",
+    "fields": {
+      "name": "Солёная карамель / шоколадный мусс",
+      "description": "Шоколадный бисквит"
+    }
+  },
+  {
+    "model": "products.filling",
+    "fields": {
+      "name": "Ванильное мороженое",
+      "description": "Молочный бисквит"
+    }
+  },
+  {
+    "model": "products.filling",
+    "fields": {
+      "name": "Апельсиновый шок с корицей",
+      "description": "Сезонный (Новый год)"
+    }
+  },
+  {
+    "model": "products.filling",
+    "fields": {
+      "name": "Кофейный"
+    }
+  },
+  {
+    "model": "products.filling",
+    "fields": {
+      "name": "Миндальный"
+    }
+  },
+  {
+    "model": "products.filling",
+    "fields": {
+      "name": "Красный бархат",
+      "description": "С вишней, малиной или классический вариант"
+    }
+  },
+  {
+    "model": "products.filling",
+    "fields": {
+      "name": "Медовик",
+      "description": "Карамельный, шоколадный или классический"
+    }
+  },
+  {
+    "model": "products.filling",
+    "fields": {
+      "name": "Сметанный"
+    }
+  },
+  {
+    "model": "products.filling",
+    "fields": {
+      "name": "Муссовый (три шоколада)"
+    }
+  },
+  {
+    "model": "products.filling",
+    "fields": {
+      "name": "Черничный",
+      "description": "Шоколадный бисквит"
+    }
+  },
+  {
+    "model": "products.filling",
+    "fields": {
+      "name": "Наполеон"
+    }
+  },
+  {
+    "model": "products.filling",
+    "fields": {
+      "name": "Рыжик"
+    }
+  },
+  {
+    "model": "products.filling",
+    "fields": {
+      "name": "Клубника со сливками"
+    }
+  },
+  {
+    "model": "products.filling",
+    "fields": {
+      "name": "Сметанный"
+    }
+  },
+  {
+    "model": "products.filling",
+    "fields": {
+      "name": "Ореховый"
+    }
+  },
+  {
+    "model": "products.filling",
+    "fields": {
+      "name": "Маковый"
+    }
+  },
+  {
+    "model": "products.filling",
+    "fields": {
+      "name": "Рафаэло"
+    }
+  },
+  {
+    "model": "products.filling",
+    "fields": {
+      "name": "Грушевый"
+    }
+  },
+  {
+    "model": "products.filling",
+    "fields": {
+      "name": "Торт лесные ягоды"
+    }
+  },
+  {
+    "model": "products.filling",
+    "fields": {
+      "name": "Сливочный"
+    }
+  },
+  {
+    "model": "products.filling",
+    "fields": {
+      "name": "Карамельный",
+      "description": "Бисквит карамельный"
+    }
+  },
+  {
+    "model": "products.filling",
+    "fields": {
+      "name": "Прага"
+    }
+  },
+  {
+    "model": "products.filling",
+    "fields": {
+      "name": "Шварцвальд"
+    }
+  },
+  {
+    "model": "products.filling",
+    "fields": {
+      "name": "Панчо",
+      "description": "С ананасом или персиком на выбор"
+    }
+  },
+  {
+    "model": "products.filling",
+    "fields": {
+      "name": "Тирамису"
+    }
+  },
+  {
+    "model": "products.filling",
+    "fields": {
+      "name": "Чизкейк"
+    }
+  },
+  {
+    "model": "products.filling",
+    "fields": {
+      "name": "Десерт Павлова"
+    }
+  },
+  {
+    "model": "products.filling",
+    "fields": {
+      "name": "Американский морковный"
+    }
+  },
+  {
+    "model": "products.filling",
+    "fields": {
+      "name": "Птичье молоко"
+    }
+  },
+  {
+    "model": "products.filling",
+    "fields": {
+      "name": "Фисташка / малина"
+    }
+  },
+  {
+    "model": "products.filling",
+    "fields": {
+      "name": "Пряная вишня"
+    }
+  },
+  {
+    "model": "products.filling",
+    "fields": {
+      "name": "Добош венгерский торт"
+    }
+  },
+  {
+    "model": "products.filling",
+    "fields": {
+      "name": "Савоярди"
+    }
+  },
+  {
+    "model": "products.filling",
+    "fields": {
+      "name": "Мильфей"
+    }
+  },
+  {
+    "model": "products.filling",
+    "fields": {
+      "name": "Три молока"
+    }
+  },
+  {
+    "model": "products.filling",
+    "fields": {
+      "name": "Карпатка"
+    }
+  }
+]
