@@ -1,0 +1,22 @@
+/* frontend/styles/globals.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .btn {
+    @apply px-6 py-2 rounded font-medium transition;
+  }
+  .btn-amber {
+    @apply bg-amber-600 text-white hover:bg-amber-700;
+  }
+  .btn-pink {
+    @apply bg-pink-500 text-white hover:bg-pink-600;
+  }
+}
+
+body {
+  font-family: 'Open Sans', sans-serif;
+  background: #fdfaf5;
+  color: #333;
+}
